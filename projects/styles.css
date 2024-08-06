@@ -302,7 +302,7 @@ h2{
             {
                 display: grid;
                grid-template-columns: 245px 522px 218px;
-        grid-template-rows: 49% 46%;
+        grid-template-rows: 58% 46%;
        justify-content: center;
        align-content: center;
             }
