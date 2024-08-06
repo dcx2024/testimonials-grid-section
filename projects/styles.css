@@ -263,7 +263,7 @@ h2{
         background-color:  white;
         padding: 20px 30px 20px 30px;
         width: 180px;
-       height: 240px;
+       height: 250px;
        justify-self: normal;
         border-radius: 10px;
     }
@@ -301,8 +301,8 @@ h2{
         .grid
             {
                 display: grid;
-                grid-template-columns: 250px 499px 268px;
-        grid-template-rows: 58% 46%;
+               grid-template-columns: 245px 522px 218px;
+        grid-template-rows: 49% 46%;
        justify-content: center;
        align-content: center;
             }
